@@ -4,7 +4,7 @@
 
 # Game Controller
 
-### This is my first UI design ,in this I had learned Various pulgins in figma like
+### This is my first UI design, and I have learned about various plugins in Figma
 
 - Iconify
 - Noise
