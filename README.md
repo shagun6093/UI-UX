@@ -15,3 +15,5 @@
 ## Screenshots
 
 ![App Screenshot](https://github.com/shagun6093/UI-UX/blob/main/WhatsApp%20Image%202023-03-26%20at%209.06.41%20PM.jpeg)
+
+![App Screenshot](https://github.com/shagun6093/UI-UX/blob/main/WhatsApp%20Image%202023-03-26%20at%209.06.41%20PM.jpeg)
